@@ -9,5 +9,5 @@ setuptools.setup(
     url='https://github.com/mchristianto/paramyco',
     license='MIT',
     packages=['paramyco'],
-    install_requires=['pycryptdome', 'paramiko'],
+    install_requires=['pycryptodome', 'paramiko'],
 )
